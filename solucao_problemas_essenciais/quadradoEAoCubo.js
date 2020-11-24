@@ -1,3 +1,15 @@
+/**
+ * Desafio
+Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). 
+Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
+
+Este é o enunciado, porém o que ele quer de verdade é que dado um número, 
+imprima-se todos os números do interval, seu quadrado e seu cubo
+ */
+
+
+
+
 //Para submeter na plataforma da DIO tem descomentar a linha abaixo
 //let entry=gets();
 let entry = '5'; //atribuição de teste - deve ser comentada ou deletada para submissão na DIO
